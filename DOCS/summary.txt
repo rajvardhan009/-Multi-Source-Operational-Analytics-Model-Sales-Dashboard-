@@ -1,0 +1,20 @@
+# Analytical Summary – Operational Monitoring Dashboard
+
+## Purpose
+To simulate a high-frequency operational monitoring system using a structured data model and dynamic visual analytics.
+
+## Key Findings
+- Strong positive correlation between Net Sales and Profit.
+- Distinct performance spikes around seasonal periods and promotional events.
+- City-level analysis highlights major contributors to event volume.
+- Comparative period analytics reveal stable patterns across multi-year windows.
+
+## Interpretation
+Although retail-based, this dataset supports techniques used in scientific system monitoring:
+- anomaly detection
+- load analysis
+- trend deviation tracking
+- multi-dimensional filtering
+
+## Conclusion
+This project demonstrates foundational analytical reasoning, structured modeling, and effective visualization practices aligned with CERN’s data-driven environments.
